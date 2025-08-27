@@ -1,0 +1,6 @@
+google-generativeai
+python-dotenv
+load_dotenv
+beautifulsoup4
+requests
+crewai[tools]
